@@ -1,0 +1,17 @@
+region,subscription_type,users
+Africa,Family,35
+Africa,Free,22
+Africa,Premium,37
+Africa,Student,35
+Americas,Family,19
+Americas,Free,6
+Americas,Premium,15
+Americas,Student,15
+Asia,Family,31
+Asia,Free,6
+Asia,Premium,20
+Asia,Student,24
+Europe,Family,32
+Europe,Free,17
+Europe,Premium,22
+Europe,Student,33
