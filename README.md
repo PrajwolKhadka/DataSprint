@@ -213,8 +213,9 @@ A counterintuitive discovery: satisfaction scores show a **weak positive correla
 ## 📧 Contact
 
 **Prajwol Khadka**
-
-For questions or collaboration opportunities, please reach out via GitHub.
+prazolkhadka67@gmail.com
+https://www.linkedin.com/in/prajwol-khadka-12ba6b320/
+For questions or collaboration opportunities, please reach out via mail or linkedin.
 
 ---
 
